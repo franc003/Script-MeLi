@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 #include <conio.h>
-#define IT 50    //cantidad maxima de items por vendedor
+#define IT 50    //cantidad maxima de items por vendeddor
 #define SL 20000 //cantidad maxima de vendedores
 
 
@@ -42,7 +42,7 @@ int main (){
 
     do{
         do{
-            printf("\n ¿Que desea hacer?\n\n");
+            printf("\n Â¿Que desea hacer?\n\n");
             printf("1) Cargar datos.\n\n");
             printf("2) Mostrar datos y generar archivo de log.\n\n");
             printf(" Respuesta: ");
@@ -60,7 +60,7 @@ int main (){
 
         }
 
-        printf("\n\n¿Desea realizar otra operacion? \n");
+        printf("\n\nÂ¿Desea realizar otra operacion? \n");
         printf("1) si\n");
         printf("2) no\n");
         printf("Respuesta:");
