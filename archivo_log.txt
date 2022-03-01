@@ -1,0 +1,36 @@
+
+
+ Items del vendedor MLA 531:
+ItemID= 1
+Titulo= AIRE ACONDICIONADO
+CatID= 3 
+CatName= ELECTRO
+
+
+
+
+ Items del vendedor MLA 1415:
+ItemID= 1
+Titulo= CORSA 2004
+CatID= 10 
+CatName= AUTOMOVIL
+
+
+ItemID= 2
+Titulo= MOTO G8
+CatID= 15 
+CatName= SMARTPHONES
+
+
+
+
+ Items del vendedor MLA 200:
+
+
+ Items del vendedor MLB 1415:
+ItemID= 1
+Titulo= MESA DE MADERA
+CatID= 9 
+CatName= MUEBLES
+
+
