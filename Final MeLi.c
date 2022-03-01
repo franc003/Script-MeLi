@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 #include <conio.h>
-#define IT 50    //cantidad maxima de items por vendeddor
+#define IT 50    //cantidad maxima de items por vendeddor 
 #define SL 20000 //cantidad maxima de vendedores
 
 
