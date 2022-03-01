@@ -1,0 +1,14 @@
+Este es un script en lenguaje C para cargar y consultar datos sobre 
+los items publicados por los vendedores del sitio "MLA" y "MLB".
+
+Cada sitio tiene un máximo de vendedores "SL" predefinido al principio del programa.
+A su vez estos vendedores tienen un máximo de items "IT".
+
+Al iniciar el programa debes elegir entre "Cargar datos" o "Mostrar datos y generar archivo de log".
+
+
+Cargar datos: Se le solicitara sitio, titulo del ítem, id de la categoría y nombre de la categoría.
+
+Mostrar datos y generar archivo de log: Se le solicitara el sitio e ID del vendedor.
+AL ingresar estos datos se generara un archivo "archivo_log" con todos los datos
+de cada ítem del vendedor y del sitio previamente solicitado
